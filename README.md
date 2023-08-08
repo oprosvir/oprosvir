@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 42 Common Core projects
+- 🌱 I’m currently learning ✨ C ✨
+- ⚡ Fun fact: I am passionate about technology, love board games and Civilization VI
+
 <!--
 **Scoundrella/Scoundrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
