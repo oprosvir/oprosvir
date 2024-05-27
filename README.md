@@ -6,7 +6,7 @@ I'm Olga, a student at [School 42](https://www.42.fr/) in Paris. Here’s a bit 
 - 👯 I’m available to **test your pet projects** and provide **feedback**
 - 💬 Ask me about **C, Python,** and **my experience at School 42**
 - 🌍 I speak **Russian** and **English**, and I'm learning **French**
-- ⚡ Fun fact: I love **Clean Code**, **Mathematics**, and I support the development of **Artificial Intelligence**!
+- ⚡ Fun fact: I love **Clean Code**, **Mathematics**, and I have a Master's degree in **Economics**!
 
 
 ### Connect with me:
