@@ -2,7 +2,7 @@
 
 I'm Olga, a student at [School 42](https://www.42.fr/) in Paris. Here’s a bit about me:
 
-- 🔭 I’m currently working on **fract-ol**
+- 🔭 I’m currently working on **Philosophers**
 - 👯 I’m available to **test your pet projects** and provide **feedback**
 - 💬 Ask me about **C, Python,** and **my experience at School 42**
 - 🌍 I speak **Russian** and **English**, and I'm learning **French**
@@ -13,12 +13,16 @@ I'm Olga, a student at [School 42](https://www.42.fr/) in Paris. Here’s a bit 
 via e-mail [oprosvir@student.42.fr](mailto:oprosvir@student.42.fr) or 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](https://t.me/scoundrella)
 
-
 ### My GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prosviriakova&show_icons=true&theme=tokyonight&hide_border=true)
+<div style="display: flex; justify-content: center; align-items: center;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prosviriakova&theme=tokyonight&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=prosviriakova&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub Stats" style="height: 180px; margin-right: 10px;"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosviriakova&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" style="height: 180px;"/>
+
+</div>
+
 
 ### Favorite Projects:
 
