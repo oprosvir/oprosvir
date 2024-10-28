@@ -2,7 +2,7 @@
 
 I'm Olga, a student at [School 42](https://www.42.fr/) in Paris. Here’s a bit about me:
 
-- 🔭 I’m currently working on **Philosophers**
+- 🔭 I’m currently working on **minishell**
 - 💬 You can ask me about my experience at **School 42**
 - 🌍 I speak **Russian**, **English**, and **French**
 - ⚡ I love **Clean Code** and **Mathematics**
