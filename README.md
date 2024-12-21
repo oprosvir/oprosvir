@@ -2,7 +2,7 @@
 
 I'm Olga, a student at [School 42](https://www.42.fr/) in Paris. Here’s a bit about me:
 
-- 🔭 I’m currently working on **minishell**
+- 🔭 I’m currently working on **NetPractice**
 - 💬 You can ask me about my experience at **School 42**
 - 🌍 I speak **Russian**, **English**, and **French**
 - ⚡ I love **Clean Code** and **Mathematics**
@@ -25,8 +25,9 @@ via e-mail [oprosvir@student.42.fr](mailto:oprosvir@student.42.fr) or
 
 ### Favorite Projects:
 
-- [minitalk ](https://github.com/prosviriakova/minitalk): A small messaging program using UNIX signals
-- [Born2beRoot](https://github.com/prosviriakova/born2beroot): A project to set up and configure a virtual server with a strong emphasis on security
+- [minitalk ](https://github.com/prosviriakova/minitalk): small messaging program using UNIX signals
+- [Born2beRoot](https://github.com/prosviriakova/born2beroot): project to set up and configure a virtual server with a strong emphasis on security
+- [minishell](https://github.com/prosviriakova/minishell): Bash-inspired shell project emphasizing teamwork and system programming
 
 <!--
 **Scoundrella/Scoundrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
