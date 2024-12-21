@@ -27,7 +27,7 @@ via e-mail [oprosvir@student.42.fr](mailto:oprosvir@student.42.fr) or
 
 - [minitalk ](https://github.com/prosviriakova/minitalk): small messaging program using UNIX signals
 - [Born2beRoot](https://github.com/prosviriakova/born2beroot): project to set up and configure a virtual server with a strong emphasis on security
-- [minishell](https://github.com/prosviriakova/minishell): Bash-inspired shell project emphasizing teamwork and system programming
+- [minishell](https://github.com/prosviriakova/minishell): Bash-inspired shell project, focusing on teamwork and system programming
 
 <!--
 **Scoundrella/Scoundrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
