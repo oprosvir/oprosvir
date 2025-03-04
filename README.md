@@ -9,8 +9,7 @@ I'm Olga, a student at [School 42](https://www.42.fr/) in Paris. Here’s a bit 
 
 
 ### Connect with me:
-via e-mail [oprosvir@student.42.fr](mailto:oprosvir@student.42.fr) or 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](https://t.me/scoundrella)
+via e-mail [oprosvir@student.42.fr](mailto:oprosvir@student.42.fr)
 
 ### My GitHub Stats:
 
