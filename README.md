@@ -7,10 +7,6 @@ I'm Olga, a student at [School 42](https://www.42.fr/) in Paris. Here’s a bit 
 - 🌍 I speak **Russian**, **English**, and **French**
 - ⚡ I love **Clean Code** and **Mathematics**
 
-
-### Connect with me:
-via e-mail [oprosvir@student.42.fr](mailto:oprosvir@student.42.fr)
-
 ### My GitHub Stats:
 
 <div style="display: flex; justify-content: center; align-items: center;">
