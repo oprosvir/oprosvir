@@ -11,9 +11,9 @@ I'm Olga, a student at [School 42](https://www.42.fr/) in Paris. Here’s a bit 
 
 <div style="display: flex; justify-content: center; align-items: center;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prosviriakova&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub Stats" style="height: 180px; margin-right: 10px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oprosvir&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub Stats" style="height: 180px; margin-right: 10px;"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosviriakova&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" style="height: 180px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oprosvir&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" style="height: 180px;"/>
 
 </div>
 
