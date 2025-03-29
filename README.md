@@ -24,9 +24,3 @@ I'm Olga, a student at [School 42](https://www.42.fr/) in Paris. Here’s a bit 
 - [Born2beRoot](https://github.com/prosviriakova/born2beroot): project to set up and configure a virtual server with a strong emphasis on security
 - [minishell](https://github.com/prosviriakova/minishell): Bash-inspired shell project, focusing on teamwork and system programming
 
-<!--
-**Scoundrella/Scoundrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-- 🌱 I’m currently learning ✨ **C** ✨
--->
-
