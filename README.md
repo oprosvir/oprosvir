@@ -2,7 +2,6 @@
 
 I'm Olga, a student at **[School 42](https://www.42.fr/)** in Paris. Here’s a bit about me:
 
-- 🔭 I’m currently working on **[Inception](https://github.com/oprosvir/Inception)**
 - 🌍 I speak 🇷🇺 **Russian**, 🇬🇧 **English**, and 🇫🇷 **French**
 - ⚡ I love **Clean Code** and **Mathematics**
 
